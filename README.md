@@ -1,4 +1,4 @@
-# Recursive_Common_Table_Expressions_Spotify_Network_Analysis-
+# Recursive_Common_Table_Expressions_Spotify_Network_Analysis
 
 Spotify/Social Media Use Cases:
 
